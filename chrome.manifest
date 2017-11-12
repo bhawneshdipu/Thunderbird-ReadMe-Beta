@@ -1,0 +1,2 @@
+content     redirectme   chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://redirectme/content/myhelloworld.xul
